@@ -6198,6 +6198,19 @@ button.close {
   border-right-color: #fff;
   border-left-width: 0;
 }
+.menu-item img{
+  width:200px;
+  height:auto;
+  border-radius:10px;
+}
+.menu-item p {
+  color: black;
+  display:block;
+}
+.event-item p{
+  color:black;
+  display:block;
+}
 .popover.bottom > .arrow {
   top: -11px;
   left: 50%;
